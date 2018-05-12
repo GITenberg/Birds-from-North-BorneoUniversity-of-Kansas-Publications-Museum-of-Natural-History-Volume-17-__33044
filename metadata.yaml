@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '36180'
     url: http://www.gutenberg.org/2009/agents/36180
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33044#Birds-from-North-BorneoUniversity-of-Kansas-Publications-Museum-of-Natural-History-Volume-17-_
 gutenberg_bookshelf:
 - Animal
 - Animals-Wild-Birds
